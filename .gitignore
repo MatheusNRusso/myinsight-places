@@ -1,0 +1,23 @@
+# Configurações sensíveis
+.env
+
+# Arquivos de log
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.iml
+
+# Dependências e pacotes
+node_modules/
+target/
+out/
+
+# Arquivos temporários
+*.tmp
+*.swp
