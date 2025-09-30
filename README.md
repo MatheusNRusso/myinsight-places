@@ -4,7 +4,7 @@ Repositório local para acompanhamento do projeto de banco de dados `insight_pla
 
 ## Descrição
 
-Este projeto possui um conjunto de tabelas para gerenciamento de proprietários, clientes, hospedagens, alugueis e avaliações. Inclui scripts SQL para criação do banco de dados, bem como planejamento para popular as tabelas com dados de exemplo.
+Este projeto possui um conjunto de tabelas para gerenciamento de proprietários, clientes, hospedagens, alugueis e avaliações. Inclui scripts SQL para criação do banco de dados, bem como planejamento para popular as tabelas com dados de exemplo. Desenvolvido no contexto do curso **Consultas SQL com MySQL Server da Oracle - ONE Alura**.
 
 ## Estrutura do Banco
 
